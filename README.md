@@ -5,3 +5,5 @@ After installing packer & co, use this command to create a Vagrant/libvirt box f
 ```
 packer build vyos.json
 ```
+
+Note: `vyos-rolling-latest.iso` can be downloaded from here: https://downloads.vyos.io/?dir=rolling/current/amd64
