@@ -4,7 +4,6 @@
     "type": "qemu",
     "accelerator": "kvm",
     "iso_url": "vyos-rolling-latest.iso",
-    "iso_checksum_type": "none",
     "output_directory": "output-vyos-rolling-amd64-{{isotime `2000-01-01`}}",
     "vm_name": "packer-vyos-{{isotime `2000-01-01`}}",
     "disk_size": "20000",
