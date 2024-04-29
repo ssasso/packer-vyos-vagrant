@@ -6,4 +6,4 @@ After installing packer & co, use this command to create a Vagrant/libvirt box f
 bash build.sh
 ```
 
-Note: `vyos-rolling-latest.iso` can be downloaded from here: https://vyos.net/get/nightly-builds/ - this has beed tested on version **1.4**.
+Note: Latest ISO image is automatically downloaded by the `build.sh` script - this has beed tested on version **1.5**.
